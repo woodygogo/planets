@@ -10,3 +10,4 @@ What is special about Mars
 Somebody is living on it. 
 Mars is blue
 Ok, it is blue. What else?
+type
